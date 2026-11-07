@@ -1,8 +1,0 @@
-#Caminhos
-path: /content/drive/MyDrive/project
-train: images/train
-val: images/test
-
-#Classes
-names:
-  0: eggs
